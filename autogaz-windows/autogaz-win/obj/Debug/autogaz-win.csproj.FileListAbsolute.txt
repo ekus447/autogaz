@@ -1,0 +1,10 @@
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\bin\Debug\autogaz-win.exe.config
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\bin\Debug\autogaz-win.exe
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\bin\Debug\autogaz-win.pdb
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\obj\Debug\autogaz-win.csprojAssemblyReference.cache
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\obj\Debug\autogaz_win.Properties.Resources.resources
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\obj\Debug\autogaz-win.csproj.GenerateResource.cache
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\obj\Debug\autogaz-win.csproj.CoreCompileInputs.cache
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\obj\Debug\autogaz-win.exe
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\obj\Debug\autogaz-win.pdb
+D:\MasA4\AUTOGAZ-GIT\windows\autogaz-win\autogaz-win\obj\Debug\autogaz_win.frame.resources
