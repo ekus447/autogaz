@@ -25,3 +25,4 @@
 - Son olarak **settings** sekmesinden ayrılıp ana menüdeki ***START!** tuşuna basabilirsin.
 
 - İhtiyacın olan kontroller şu şekilde: **A tuşu: S**
+.
