@@ -3,8 +3,8 @@
 ###  ***Build***
 - Build almak istersen yapman gerek bişiler var.
 - **https://github.com/XboxDev/nxdk** sitesindeki işlemleri yap.
-- Dosya hiyerarşisi bu şekilde olmalı:
-![hierarchy](https://i.imgur.com/dtj5Pq1.png)
+- Dosya hiyerarşisi bu şekilde olmalı: ![hierarchy](https://i.imgur.com/dtj5Pq1.png)
+
 - Bunları yaptıksan sonra *game* klasörü içinde **make** yazabilirsin.
 -----------------
 ### ***Emülatör***
