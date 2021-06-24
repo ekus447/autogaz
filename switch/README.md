@@ -1,0 +1,1 @@
+**NOT:** "**yuzu**" emülatörünü çalıştıramadım (ses gelmedi). Ancak "**https://ryujinx.org/download**" bu sitedeki emülatör ile çalışıcaktır. Programı açtıktan sonra dosyayı içine sürükleyebilirsin.
