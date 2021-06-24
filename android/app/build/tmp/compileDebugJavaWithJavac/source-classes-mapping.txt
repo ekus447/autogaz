@@ -1,5 +1,0 @@
-net/ekush/autogaz/BuildConfig.java
- net.ekush.autogaz.BuildConfig
-net/ekush/autogaz/main.java
- net.ekush.autogaz.main
- net.ekush.autogaz.main$1
