@@ -1,0 +1,32 @@
+{
+  "name": "autogaz-linux",
+  "version": "2.0.0",
+  "description": "Auto Gaz ama linux için fln işte utility içinde olacak kategorilerde fln electron la yaptm gtk ile falan yapmadığım için kusura bakmayın pls.",
+  "main": "main.js",
+  "homepage": "https://ekush.glitch.me",
+  "author": "eKush <eKush447@gmail.com>",
+  "license": "MIT",
+  
+  "build": {
+    "appId": "net.ekush.autogaz",
+    "productName": "AutoGaz",
+    "copyright": "Copyright © eKush",
+    "linux": {
+      "category": "Utility",
+      "icon": "build/icon.icns",
+      "target": [
+        "AppImage",
+        "deb"
+      ]
+    }
+  },
+  "scripts": {
+    "dev": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "electron-builder": "^22.11.7"
+  }
+}
