@@ -1,0 +1,44 @@
+Beta 5 :
+ - Improved support of intraFont
+ - Renamed g* functions to g2d*
+ - Removed g2dSetCoord*Relative's third argument
+ - Using constants instead of bools for some g2d* functions (better readability)
+ - Dynamic allocation of the display list, no more artifacts with a small heap
+ - Replaced G2D_FALSE and G2D_TRUE by false and true
+ - Added a global scale factor : g2d(Set/Get/Reset)GlobalScale
+ - Better scaling quality
+ - Lots of code rework
+ - No more swizzling artifacts
+ - Smaller display list size, saves 3/4 megabyte
+ - Forced coordmode with an inverted object is no longer applied
+ - Corrected documentation 
+
+Beta 4 :
+ - Refactored code parts
+ - Corrected a scaling bug
+ - Modified gBegin to gBeginRects
+ - Added line object support (gBeginLines), line strip support
+ - Added quad object support (gBeginQuads)
+ - Added point object support (gBeginPoints)
+ - Added a new "deform" sample
+ - Added texture repeat control (gSetTexRepeat)
+ - Draw & display buffers defined as textures (possibility to get
+   framebuffer pointer)
+
+Beta 3 :
+ - Small code cleanup
+ - Bug resolved when gAdd() was not called between gBegin()/gEnd()
+ - Bug resolved with gPop()
+ - Bug resolved when an image is inverted via scaling
+ - Bug resolved when an alpha value was applied to a single object
+ - Added gGet* functions
+ - Added scissor functions
+ - New samples
+
+Beta 2 :
+ - Texture slicing (6x faster with 480*272 texture)
+ - PDF Documentation
+ - Minor corrections
+
+Beta 1 :
+ - Initial release
