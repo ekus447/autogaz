@@ -4,4 +4,4 @@
 
 -----------------------------------------------------
 
-- sana bu konuda çok şey söyleyemem ama yapacağın baya araştırma var. ***psxdev.net*** den bak işte. bu proje tarzı bişey yapcaksan windows xp sanal makinesi kullanman gerekicektir. sana gerçekten bişey anlatamam çok karışık.
+- sana bu konuda çok şey söyleyemem ama yapacağın baya araştırma var. ***psxdev.net*** den bak işte. bu proje tarzı bişey yapcaksan windows xp sanal makinesi kullanman gerekicektir. sana gerçekten bişey anlatamam çok karışık. ha ayrıca no$psx ya da ePSXe emülatörlerini tavsiye ederim
